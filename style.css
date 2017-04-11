@@ -1,0 +1,76 @@
+body {
+    background: #000000;
+}
+
+.container {
+    position:absolute;
+    color:#fff;
+    top:50%;
+    left:50%;
+    padding:15px;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+p, span {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#days-left {
+    font-family: 'Raleway Dots', cursive;
+    font-size: 5vw;
+    margin-top: -10vw;
+}
+
+.hidden {
+    display: none;
+}
+
+.melt1 {
+    background-image: url("images/melt1.jpg");
+}
+.melt2 {
+    background-image: url("images/melt2.jpg");
+}
+.melt3 {
+    background-image: url("images/melt3.jpg");
+}
+.melt4 {
+    background-image: url("images/melt4.jpg");
+}
+.melt5 {
+    background-image: url("images/melt5.jpg");
+}
+.melt6 {
+    background-image: url("images/melt6.jpg");
+}
+.melt7 {
+    background-image: url("images/melt7.jpg");
+}
+.melt8 {
+    background-image: url("images/melt8.jpg");
+}
+.melt9 {
+    background-image: url("images/melt9.jpg");
+}
+
+#counter {
+    font-family: 'Overpass Mono', monospace;
+    font-size: 40vw;
+    color: #ffffff;
+    line-height: 40vw;
+    letter-spacing: 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: white; /* fallback color */
+    -webkit-transition: background-image 0.2s ease-in-out;
+    transition: background-image 0.2s ease-in-out;
+
+}
