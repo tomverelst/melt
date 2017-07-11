@@ -73,10 +73,82 @@ p, span {
     transition: background-image 0.2s ease-in-out;
 }
 
-.days {
+#counter.days {
     font-size: 40vw;
 }
 
-.seconds {
+#counter.seconds {
     font-size: 20vw;
+}
+
+#counter.heart {
+    font-size: 40vw;
+}
+
+#counter.heart2 {
+    font-size: 45vw;
+}
+
+#counter.heart3 {
+    font-size: 50vw;
+}
+
+#counter.heart4 {
+    font-size: 52vw;
+}
+
+#counter.heart5 {
+    font-size: 55vw;
+}
+
+/*Reset*/
+#counter.heart6 {
+    font-size: 38vw;
+}
+
+#counter.heart7{
+    font-size: 42vw;
+}
+#counter.heart8{
+    font-size: 43vw;
+}
+#counter.heart9{
+    font-size: 44vw;
+}
+#counter.heart10{
+    font-size: 45vw;
+}
+#counter.heart11{
+    font-size: 46vw;
+}
+#counter.heart12{
+    font-size: 47vw;
+}
+#counter.heart13{
+    font-size: 48vw;
+}
+#counter.heart14{
+    font-size: 49vw;
+}
+#counter.heart15{
+    font-size: 50vw;
+}
+#counter.heart16{
+    font-size: 51vw;
+}
+#counter.heart17{
+    font-size: 52vw;
+}
+#counter.heart18{
+    font-size: 53vw;
+}
+#counter.heart19{
+    font-size: 54vw;
+}
+#counter.heart20{
+    font-size: 55vw;
+}
+
+#subtext.heart {
+
 }
