@@ -1,7 +1,7 @@
 
 var mode = "days";
-var melt = new Date(2017, 6, 11);
-melt.setHours(22, 41, 0, 0);
+var melt = new Date(2017, 6, 14);
+melt.setHours(0, 0, 0, 0);
 
 var beating = false;
 var heartIndex=1;
