@@ -1,6 +1,6 @@
 
 var mode = "days";
-var melt = new Date(2017, 6, 14);
+var melt = new Date(2018, 7, 12);
 melt.setHours(0, 0, 0, 0);
 
 var beating = false;
